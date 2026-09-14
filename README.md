@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
