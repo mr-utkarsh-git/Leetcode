@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
