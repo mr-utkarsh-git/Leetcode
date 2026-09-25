@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0015-3sum) |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -56,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
@@ -65,4 +68,16 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
