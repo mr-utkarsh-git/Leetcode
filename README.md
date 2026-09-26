@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/mr-utkarsh-git/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -60,6 +62,7 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
