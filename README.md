@@ -13,6 +13,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -37,6 +38,7 @@
 | [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -118,6 +120,7 @@
 | [1096-brace-expansion-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
