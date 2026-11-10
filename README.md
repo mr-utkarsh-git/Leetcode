@@ -23,6 +23,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -98,6 +99,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mr-utkarsh-git/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mr-utkarsh-git/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mr-utkarsh-git/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
